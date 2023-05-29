@@ -1,0 +1,35 @@
+.shirt-container {
+    width: 400px;
+    height: 330px;
+    border: 1px solid cyan;
+    border-radius: 15px;
+    margin: 30px auto;
+
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+.text {}
+
+.text>h1 {
+    font-size: 24px;
+}
+
+button {
+    color: black;
+    background: white;
+    margin-bottom: 20px;
+    padding: 8px 12px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+button:hover {
+    cursor: pointer;
+    background: cyan;
+}
